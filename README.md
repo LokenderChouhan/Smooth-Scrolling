@@ -29,5 +29,5 @@ It’s not inherently changing scroll behavior, but simply subtly modifying the 
  
 ## Preview
 
-https://lokenderchouhan.github.io/
+https://smooth-scroll-web.netlify.app/
 
